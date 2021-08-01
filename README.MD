@@ -5,11 +5,11 @@
 - lg là PC
 -------------------------------------------
 Bộ icon của Themify-icons
-- sử dụng thẻ <i></i> để thể hiện.
+- Sử dụng thẻ <i></i>.
 - Chi tiết: https://themify.me
 
 -------------------------------------------
--Để sử dụng:
+Để sử dụng:
 
 file html:
 <link rel="stylesheet" href="grid.css">
